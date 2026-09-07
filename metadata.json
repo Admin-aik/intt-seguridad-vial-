@@ -1,0 +1,6 @@
+{
+  "name": "Ruta Segura: Educación y Ciudadanía Vial",
+  "description": "Simulador 3D interactivo y juego de educación y ciudadanía vial para jóvenes, fundamentado en la Ley de Transporte Terrestre y normativa del INTT de Venezuela.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
